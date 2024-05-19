@@ -32,6 +32,7 @@ return require('packer').startup(function(use)
 			{'neovim/nvim-lspconfig'},
 			{'williamboman/mason.nvim'},
 			{'williamboman/mason-lspconfig.nvim'},
+            {"jayp0521/mason-null-ls.nvim"},
 			
 			-- auto complete 
 			{'hrsh7th/nvim-cmp'},

@@ -1,2 +1,1 @@
 require("dawsonb")
-print("hello")
